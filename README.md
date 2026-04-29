@@ -45,6 +45,6 @@ java -cp src AirDefenseGame
 
 ## Author
 
-IRAGENA Gloria Anne Marie
+IRAGENA Gloria Anne Marie and
 KWIZERA yves
 
